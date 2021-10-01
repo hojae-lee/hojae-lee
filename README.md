@@ -28,8 +28,6 @@
   
 <img src="https://img.shields.io/badge/Github-181717?style=square&logo=Github&logoColor=white"/><img src="https://img.shields.io/badge/Gitlab-FCA121?style=square&logo=Gitlab&logoColor=white"/>
   
-<img src="https://img.shields.io/badge/Slack-4A154B?style=square&logo=Slack&logoColor=white"/><img src="https://img.shields.io/badge/Microsoft Teams-6264A7?style=square&logo=Microsoft Teams&logoColor=white"/>
-  
 ### Will 
 
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=square&logo=Webpack&logoColor=white"/> 
