@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/Gulp-CF4647?style=square&logo=Gulp&logoColor=white"/> <img src="https://img.shields.io/badge/Jest-C21325?style=square&logo=Jest&logoColor=white"/> 
 <img src="https://img.shields.io/badge/yarn-2C8EBB?style=square&logo=yarn&logoColor=white"/> <img src="https://img.shields.io/badge/npm-CB3837?style=square&logo=npm&logoColor=white"/> <img src="https://img.shields.io/badge/babel-F9DC3E?style=square&logo=babel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=square&logo=Webpack&logoColor=white"/> 
   
 ### Util
 
