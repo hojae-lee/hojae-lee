@@ -31,7 +31,7 @@
 ### Will & Study
 
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=square&logo=Webpack&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Sass-CC6699?style=square&logo=Sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sass(Scss)-CC6699?style=square&logo=Sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=square&logo=Next.js&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Node.js & Express-339933?style=square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=square&logo=TypeScript&logoColor=white"/>
