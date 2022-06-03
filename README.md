@@ -37,7 +37,8 @@
 <img src="https://img.shields.io/badge/Koa-33333D?style=square&logo=Koa&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=square&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=square&logo=Vue.js&logoColor=white"/> 
-
+<img src="https://img.shields.io/badge/Angular-CF4647?style=square&logo=Angular&logoColor=white"/> 
+  
 <br/><br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhojae-lee%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hi%7E&edge_flat=false)](https://github.com/hojae-lee/)
 
