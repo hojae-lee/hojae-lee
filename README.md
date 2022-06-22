@@ -1,6 +1,6 @@
 <div align="center">
 
-👋 Hi, I'm a **front developer** who likes **JavaScript**.. <img src="https://img.shields.io/badge/Like Coffee-000000?style=square&logo=Buy Me A Coffee&logoColor=white"/> 
+👋 Hi, I'm a **eveloper** who likes **JavaScript**.. <img src="https://img.shields.io/badge/Like Coffee-000000?style=square&logo=Buy Me A Coffee&logoColor=white"/> 
 
 ### Tech Stack
 
