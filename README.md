@@ -37,7 +37,7 @@
   
 ### Study
 
-<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=square&logo=Webpack&logoColor=white"/> 
+<img src="https://img.shields.io/badge/ReactiveX-B7178C?style=square&logo=ReactiveX&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Svelte-FF3E00?style=square&logo=Svelte&logoColor=white"/>
 
   
