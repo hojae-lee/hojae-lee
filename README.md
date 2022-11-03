@@ -17,14 +17,14 @@
 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=square&logo=Eclipse IDE&logoColor=white"/>
   
-<img src="https://img.shields.io/badge/Slack-4A154B?style=square&logo=Slack&logoColor=white"/><img src="https://img.shields.io/badge/Microsoft Teams-6264A7?style=square&logo=Microsoft Teams&logoColor=white"/><img src="https://img.shields.io/badge/Notion-181717?style=square&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft Teams-6264A7?style=square&logo=Microsoft Teams&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-181717?style=square&logo=Notion&logoColor=white"/>
   
 ### DB
-<img src="https://img.shields.io/badge/mysql-4479A1?style=square&logo=mysql&logoColor=white"/><img src="https://img.shields.io/badge/Oracle-F80000?style=square&logo=Oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=square&logo=Oracle&logoColor=white"/>
 
 ### Configuration Management
   
-<img src="https://img.shields.io/badge/Github-181717?style=square&logo=Github&logoColor=white"/><img src="https://img.shields.io/badge/Gitlab-FCA121?style=square&logo=Gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github-181717?style=square&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Gitlab-FCA121?style=square&logo=Gitlab&logoColor=white"/>
   
 ### Project
 
