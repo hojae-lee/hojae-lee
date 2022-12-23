@@ -33,7 +33,8 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=square&logo=Spring&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Node.js & Express-339933?style=square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=square&logo=Vue.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vuex-4FC08D?style=square&logo=Vue.js&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Vuex-4FC08D?style=square&logo=Vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=square&logo=Nuxt.js&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Angular-CF4647?style=square&logo=Angular&logoColor=white"/> 
   
 ### Study
