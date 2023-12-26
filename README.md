@@ -36,10 +36,10 @@
 <img src="https://img.shields.io/badge/Vuex-4FC08D?style=square&logo=Vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=square&logo=Nuxt.js&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Angular-CF4647?style=square&logo=Angular&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Next.js-000000?style=square&logo=Next.js&logoColor=white"/> 
   
 ### Study
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=square&logo=Next.js&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Svelte-FF3E00?style=square&logo=Svelte&logoColor=white"/>
 
   
