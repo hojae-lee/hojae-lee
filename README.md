@@ -14,6 +14,7 @@
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=square&logo=Redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zustand-000000?style=square&logo=Zustand&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=square&logo=Spring&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Node.js & Express-339933?style=square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=square&logo=Vue.js&logoColor=white"/>
