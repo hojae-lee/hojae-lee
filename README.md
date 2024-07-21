@@ -36,10 +36,6 @@
 ### Configuration Management
   
 <img src="https://img.shields.io/badge/Github-181717?style=square&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Gitlab-FCA121?style=square&logo=Gitlab&logoColor=white"/>
-  
-### Study
-
-<img src="https://img.shields.io/badge/Svelte-FF3E00?style=square&logo=Svelte&logoColor=white"/>
 
   
 <br/><br/>
