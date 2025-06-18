@@ -25,22 +25,11 @@
 <img src="https://img.shields.io/badge/Angular-CF4647?style=square&logo=Angular&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Next.js-000000?style=square&logo=Next.js&logoColor=white"/> 
  
-  
-### Util
-
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=square&logo=Eclipse IDE&logoColor=white"/>
-  
-<img src="https://img.shields.io/badge/Slack-4A154B?style=square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft Teams-6264A7?style=square&logo=Microsoft Teams&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-181717?style=square&logo=Notion&logoColor=white"/>
-  
 ### DB
 <img src="https://img.shields.io/badge/mysql-4479A1?style=square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=square&logo=Oracle&logoColor=white"/>
 
 ### Configuration Management
   
 <img src="https://img.shields.io/badge/Github-181717?style=square&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Gitlab-FCA121?style=square&logo=Gitlab&logoColor=white"/>
-
-  
-<br/><br/>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhojae-lee%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hi%7E&edge_flat=false)](https://github.com/hojae-lee/)
 
 </div>
